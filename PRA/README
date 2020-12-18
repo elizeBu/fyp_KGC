@@ -3,3 +3,5 @@ For Nell995 dataset, we do single-task learning and multi-task learning.
 The dataset for single-task learning can be downloaded from https://github.com/xwhan/DeepPath
 The dataset for multi-task learning can be downloaded from https://github.com/thunlp/OpenKE/tree/OpenKE-PyTorch/benchmarks.
 Fb15k-237 and WN18RR dataset can also be downloaded from here. They all do multi-task learning.
+
+If you want to see what data we used and the result file, you can see it in baiduyun disk link:https://pan.baidu.com/s/1Jj66rDJUZ9LL2uLDz1WQJA  key:kcrb
