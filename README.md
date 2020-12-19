@@ -1,3 +1,3 @@
 # fyp_KGC
-This is a final year project for knowledge graph completion task.<br>
+This is a Final Year Project for Knowledge Graph Completion task.<br>
 &emsp; Collaborative group members: Elize BU, Charles Chen, Alyson XU.
