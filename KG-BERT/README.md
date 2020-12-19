@@ -4,6 +4,8 @@ Thanks [KG-BERT](https://github.com/yao8839836/kg-bert) provided by Liang, Yao f
 
 The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) and tested on Python 3.5+.
 
+Experimental Environment: Google Collaboratory with GPU quota provided.
+
 
 ## Installing requirement packages
 
