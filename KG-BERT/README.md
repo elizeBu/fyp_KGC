@@ -4,8 +4,6 @@ Thanks [KG-BERT](https://github.com/yao8839836/kg-bert) provided by Liang, Yao f
 
 The repository is modified from [pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT) and tested on Python 3.5+.
 
-Experimental Environment: Google Collaboratory with GPU quota provided.
-
 
 ## Installing requirement packages
 
@@ -19,7 +17,13 @@ pip install -r requirements.txt
 
 (2) NELL995_data_processing folder contains process of NELL-995 dataset preprocessing, the output can be found in ./KG-BERT/data/NELL-995 respectively.
 
+
+
+
 ## Experimental results
+
+### Experimental Environment
+We run code [run_bert_relation_prediction.py](https://github.com/elizeBu/fyp_KGC/blob/main/KG-BERT/run_bert_relation_prediction.py) on Google Collaboratory with GPU quota provided.
 
 ### Relation Prediction
 
