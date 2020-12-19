@@ -17,7 +17,7 @@ A dataset in the following format is required, which contains five files:
 All datasets can be downloaded from [OpenKE](https://github.com/thunlp/OpenKE/tree/OpenKE-PyTorch/benchmarks).
 
 ## Implementation details
-The new ***base*** folder added details for the realization of relation prediction.
+The new ***base*** folder added details for the implementation of relation prediction.
 Replace the ***base*** folder in OpenKE with the ***base*** folder provided under this directory.
 
 
